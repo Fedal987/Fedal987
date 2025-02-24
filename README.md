@@ -1,3 +1,6 @@
-欢迎使用WaterClient
-这里是L1quidBounce
-官网:WaterClient.main
+Oh！
+你好！
+欢迎来到我的Github页面！
+我也许会在这上面开源一些小项目啥的。
+也许会有屎山代码，
+大伙看着用
