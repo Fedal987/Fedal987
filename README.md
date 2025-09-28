@@ -1,6 +1,5 @@
-Oh！
-你好！
-欢迎来到我的Github页面！
-我也许会在这上面开源一些小项目啥的。
-也许会有屎山代码，
-大伙看着用
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](YeLu.jpg)
+<h1 align="center">Hello! I'm <a href="https://notcatalin.top">Fedal987</a>, Owner of <a href="https://github.com/SigmaAIStudio">SigmaStudio</a></h1>
+
+<h2>I'm an AI Developer with ❤</h2>
+
